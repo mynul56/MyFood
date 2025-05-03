@@ -40,7 +40,7 @@ class HomePage extends StatelessWidget {
                   FadeInUp(
                     duration: Duration(milliseconds: 1300),
                     child: Text(
-                      "Welcome Back",
+                      "Welcome to TasuFood",
                       style: TextStyle(color: Colors.white, fontSize: 18),
                     ),
                   ),
@@ -195,7 +195,7 @@ class HomePage extends StatelessWidget {
                                 color: Colors.black,
                                 child: Center(
                                   child: Text(
-                                    "Github",
+                                    "Gmail",
                                     style: TextStyle(
                                       color: Colors.white,
                                       fontWeight: FontWeight.bold,
